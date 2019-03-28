@@ -1,2 +1,2 @@
-"Hello World" 
-"\nSecond" 
+echo "Hello World" 
+echo "\nSecond" 
